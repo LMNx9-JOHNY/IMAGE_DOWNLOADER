@@ -1,4 +1,6 @@
-# IMAGE_DOWNLOADER
+# AI IMAGE GENERATOR
+
+# AUTO IMAGE DOWNLOADER
 Download Images Unlimited 🔥 Just Put Images Name &amp; Amount 💎 Developed By -> DARK_LMNx9
 
 ![](https://github.com/LMNx9-JOHNY/IMAGE_DOWNLOADER/blob/main/Screenshot_2024-05-03-17-00-48-picsay.png)
